@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flowerClassification/static/css/main.c3ec641c.chunk.css",
+    "main.js": "/flowerClassification/static/js/main.7173379e.chunk.js",
+    "main.js.map": "/flowerClassification/static/js/main.7173379e.chunk.js.map",
+    "runtime-main.js": "/flowerClassification/static/js/runtime-main.58325798.js",
+    "runtime-main.js.map": "/flowerClassification/static/js/runtime-main.58325798.js.map",
+    "static/js/2.145adbd5.chunk.js": "/flowerClassification/static/js/2.145adbd5.chunk.js",
+    "static/js/2.145adbd5.chunk.js.map": "/flowerClassification/static/js/2.145adbd5.chunk.js.map",
+    "index.html": "/flowerClassification/index.html",
+    "precache-manifest.b41a6fa8c56f8d2f4b15c578245e1097.js": "/flowerClassification/precache-manifest.b41a6fa8c56f8d2f4b15c578245e1097.js",
+    "service-worker.js": "/flowerClassification/service-worker.js",
+    "static/css/main.c3ec641c.chunk.css.map": "/flowerClassification/static/css/main.c3ec641c.chunk.css.map",
+    "static/js/2.145adbd5.chunk.js.LICENSE.txt": "/flowerClassification/static/js/2.145adbd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58325798.js",
+    "static/js/2.145adbd5.chunk.js",
+    "static/css/main.c3ec641c.chunk.css",
+    "static/js/main.7173379e.chunk.js"
+  ]
+}
